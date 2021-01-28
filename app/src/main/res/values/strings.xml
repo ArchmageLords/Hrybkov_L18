@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Hrybkov_L18</string>
+    <string name="panamera">https://carsguide-res.cloudinary.com/image/upload/f_auto,fl_lossy,q_auto,t_cg_hero_large/v1/editorial/review/hero_image/2020-porsche-panamera-sport-turismo-gts-wagon-black-james-cleary-100x1565-%281%29.jpg</string>
+    <string name="load_image">Load image</string>
+    <string name="drawable">Drawable</string>
+    <string name="bitmap">Bitmap</string>
+    <string name="glide">Glide</string>
+    <string name="draw_on_bitmap">Draw on bitmap</string>
+    <string name="change_button_color">Change button color</string>
+    <string name="gradient">Gradient</string>
+</resources>
